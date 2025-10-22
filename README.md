@@ -46,14 +46,13 @@ This project was created using **Power BI** to help visualize trends, identify k
 amazon-sales-dashboard-powerbi/
 │
 ├── data/
-│ ├── amazon_sales.csv
-│ └── amazon_sales_cleaned.csv
+│ └── Amazon_Combined_Data.xlsx
 │
 ├── dashboard/
-│ └── Amazon_Sales_Dashboard.pbix
+│ └── AMAZON.pbix
 │
 ├── images/
-│ └── dashboard_preview.png
+│ └── amazon_dashboard_preview.png
 │
 └── README.md
 ```
@@ -61,7 +60,7 @@ amazon-sales-dashboard-powerbi/
 
 ## 🖼️ Dashboard Preview
 <p align="center">
-  <img src="images/dashboard_preview.png" alt="Amazon Sales Dashboard Preview" width="700px">
+  <img src="images/amazon_dashboard_preview.png" alt="Amazon Sales Dashboard Preview" width="700px">
 </p>
 
 ---
